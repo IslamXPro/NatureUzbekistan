@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">NatureUzbekistan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="lorem" translatable="false">Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since
+        the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
+        specimen book. It has survived not only five centuries, but also the leap into electronic
+        typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+        release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+        publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="hyperlink"><a href="https://learntodroid.com">LearnToDroid.com</a></string>
+    <string name="profile" tools:ignore="MissingTranslation">Profile</string>
+    <string name="setting" tools:ignore="MissingTranslation">Setting</string>
+    <string name="about" tools:ignore="MissingTranslation">About</string>
+    <string name="text_long">Do you want to really get to know the next city you visit? Then this app is all you need! Easily find and book your.</string>
+</resources>

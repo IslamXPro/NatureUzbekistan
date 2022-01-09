@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name_ru" tools:ignore="ExtraTranslation">Природа Узбекистан</string>
+    <string name="profile_ru" tools:ignore="ExtraTranslation">Профил</string>
+    <string name="setting_ru" tools:ignore="ExtraTranslation">Настройки</string>
+    <string name="about_ru" tools:ignore="ExtraTranslation">О нас</string>
+    <string name="hyperlink"><a href="https://learntodroid.com">LearnToDroid.com</a></string>
+</resources>
